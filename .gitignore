@@ -1,0 +1,13 @@
+#编译产物
+node_modules/
+outputs/
+build/
+*.log
+*.o
+*.exe
+*.d
+*.dll
+
+#调试器文件
+*.jdebug
+*.jdebug.user
